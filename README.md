@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @geno-92
+- 👀 I’m interested in oracle technoloqy
+- 🌱 I’m currently learning PL/SQL
